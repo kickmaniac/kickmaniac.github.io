@@ -83,6 +83,10 @@ function print_inventory(ap, class_name, level, character_sheet) {
 		html_insert += '<div class="div-table-row" align="center">' + armour[i] + '</div>';
 	}
 
+
+	let sp = Math.floor(Math.random() * 6) * 3;
+	html_insert += '<div class="div-table-row" align="center">SP: ' + sp + '</div>';
+
 	if (class_name == "Thief") {
 		html_insert += '<div class="div-table-row" align="center">Dagger</div>';
 	}
