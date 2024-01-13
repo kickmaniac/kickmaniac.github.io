@@ -127,3 +127,33 @@ If in possession of a **deciphered** scroll or an **identified** spellbook the p
 Magically enhanced items (starting with things as simple as Dagger +1) can be **identified** as a service by a magicians’ guild (at a high price normally), or via **prolonged usage** where applicable. 
 
 > **Example**: a character has acquired a very nice sword (it’s secretly a Sword +1 but also has a +3 versus undead). They decide to practise with a fellow adventurer for a day - this reveals enough information that it’s a Sword +1, but does not reveal anything about its anti-undead properties. A **STR check** might be asked by the Referee - this is left to them to decide. 
+
+## Arcane Mishap
+
+Sometimes things don’t go right when dealing with the delicate aspects of the supernatural and divine. Arcane or alchemical failures and divine disfavours can be rolled on the tables of magical mishaps (can be arcane, phantasmal, divine, nature etc.). In a simplified case roll a d20 on the table below and add a DC (based on spell level, for example) - note that durations can be adjusted by the Referee! 
+
+| d20 + DC | Arcane Mishap | 
+| --- | --- | 
+| 1 | - | 
+| 2 | Cannot reattempt for today | 
+| 3 | The attempt fumbles with a loud sound alerting everyone closeby!  | 
+| 4 | The attempt fumbles with a loud sound, a blinding prismatic light is emitted for 1d6 rounds. | 
+| 5 | You start fuming at the mouth and scream uncontrollably for 1d6 rounds | 
+| 6 | You suffer 1d4 magical burn damage!  | 
+| 7 | You take 2d4 damage of random elemental type. d4: fire, cold, corrosion, electricity. | 
+| 8 | Your surroundings are caught on fire!  | 
+| 9 | Your surroundings are caught on fire! | 
+| 10 | What you are wearing disappears in an instant with no trace. It returns in the same manner as a slimy heap in front of you in 1d6 turns. | 
+| 11 | You suffer a magical burn wound! | 
+| 12 | You suffer a magical burn wound! | 
+| 13 | You lose the ability to cast spells for today!  | 
+| 14 | You lose 1 point in a random attribute for 1d6 days!  | 
+| 15 | You lose 3 INT for 1d6 days. | 
+| 16 | You lose the ability to speak (and thus cast spells) for 1d4 days! | 
+| 17 | You are haunted by devilish nightmares for 2d6 days, which prevent proper resting.  | 
+| 18 | Your spell tears the fabric of reality and summons d4 random creatures of d4 + 2 HD that will attack randomly. | 
+| 19 | An extraplanar messenger arrives to you in 1d4 days, saying that you owe an interdimensional arcane council a massive donation (e.g., d6x1000 coins worth of goods). | 
+| 20 | Donate one of your spellbooks or artefacts to an interdimensional museum!  | 
+| 21 | Roll twice on this table and combine the results!  | 
+| 22 | Your spell tears the fabric of reality and summons d2 random creatures of d4+2 HD that will attack you. | 
+| 23 | Be summoned to another dimension as a servant for d6 days. You return with 3 wounds. | 

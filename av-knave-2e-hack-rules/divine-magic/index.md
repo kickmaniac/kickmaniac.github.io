@@ -40,7 +40,6 @@ In order to scribe a divine scroll the character must satisfy the following requ
 - Spend a minimum of *500 GP per spell level* (the money covers extra donations and materials etc.)
 - Spend 1 week per spell level in prayers
 
-
 ## Gaining Relics
 
 ### New Relics
@@ -68,3 +67,33 @@ Relics function is either defined by the Referee based on what is appropriate or
 ### Captured Relics
 
 **Captured relics are useless** as divine patronage is granted to an individual. The relics might still hold mundane or quest value. 
+
+## Divine Wrath 
+
+Sometimes things don’t go right when dealing with the delicate aspects of the supernatural and divine. Arcane or alchemical failures and divine disfavours can be rolled on the tables of magical mishaps (can be arcane, phantasmal, divine, nature etc.). In a simplified case roll a d20 on the table below and add a DC (based on spell level, for example) - note that durations can be adjusted by the Referee! 
+
+| d20 + DC | Divine Wrath | 
+| --- | --- | 
+| 1 | - | 
+| 2 | Cannot reattempt for today | 
+| 3 | Wail loudly for 1d6 turns | 
+| 4 | Take d4 shock damage! | 
+| 5 | Be weakened by losing 2 STR for 1d6 turns | 
+| 6 | Take 2d4 shock damage! | 
+| 7 | A small earthquake shatters the ground right under you!  | 
+| 8 | Lose two pieces of equipment of your choice forever - they turn to dust. | 
+| 9 | An ironic punishment within deity’s domain is imposed on you!  | 
+| 10 | Be haunted by nightmares for d6 nights!  | 
+| 11 | A wound opens on your body! | 
+| 12 | Equipped non-magical equipment rots away | 
+| 13 | You cannot use blessings today. | 
+| 14 | Become blind and deaf for 1d4 days | 
+| 15 | Lose 2 CHA for d6 days. | 
+| 16 | You cannot use blessings for d4 days. | 
+| 17 | The whole party suffers -1 penalties to all rolls while in your presence for d6 days! | 
+| 18 | A quest is imposed on you. You can’t use blessings until the quest is resolved. Quest can be a massive donation (e.g., d4x1000 coins) | 
+| 19 | A rival deity curses you according to their rival domain, forcing you to do things against your devotion!  | 
+| 20 | Your spell tears the fabric of reality and summons d4 random creatures of d4 + 2 HD that will attack randomly. | 
+| 21 | Roll twice on this table and combine the results!  | 
+| 22 | Your spell tears the fabric of reality and summons d2 random creatures of d4+2 HD that will attack you. | 
+| 23 | Build a temple!  | 
