@@ -1,43 +1,49 @@
+<!DOCTYPE html>
 <html>
 	<head>
+		<meta charset="utf-8">
+		
+		<title>Arden Vul - Knave 2E GM</title>
+
 		<link rel="stylesheet" href="css/styles.css">
+	
+		<script src="scripts/main.js"></script>
 	</head>
 
+
 	<body>
-		<script src="scripts/main.js"></script>
-
-		
-
-		
-		
-		
-		<p id="menu">
-			<div class="div-table">
-				<div class="div-table-row">
-					<div class="div-table-col" align="center">
-						<label>Level</label>
-						<input class="number" type="number" id="level" name="level" min="1" max="10" value="3">
-					</div>
-					<div class="div-table-col" align="center">
-						<button class="button" onclick="generate_character_sheet('F')">Fighter</button>
-					</div>
-					<div class="div-table-col" align="center">
-						<button class="button" onclick="generate_character_sheet('R')">Ranger</button>
-					</div>
-					<div class="div-table-col" align="center">
-						<button class="button" onclick="generate_character_sheet('MU')">Magic User</button>
-					</div>
-					<div class="div-table-col" align="center">
-						<button class="button" onclick="generate_character_sheet('C')">Cleric</button>
-					</div>
-					<div class="div-table-col" align="center">
-						<button class="button" onclick="generate_character_sheet('T')">Thief</button>
-					</div>
+		<div class="div-table">
+			<div class="div-table-row">
+				<div class="div-table-col" align="center">
+					<input type="radio" id="level_1" name="level" value="1" checked />
+					<label for="level_1">Level 1</label> <br>
+					<input type="radio" id="level_2" name="level" value="2" />
+					<label for="level_2">Level 2</label> <br>
+					<input type="radio" id="level_3" name="level" value="3" />
+					<label for="level_3">Level 3</label> <br>
+					<input type="radio" id="level_4" name="level" value="4" />
+					<label for="level_4">Level 4</label> <br>
+					<input type="radio" id="level_5" name="level" value="5" />
+					<label for="level_5">Level 5</label> <br>
+					<input type="radio" id="level_6" name="level" value="6" />
+					<label for="level_6">Level 6</label> <br>
+					<input type="radio" id="level_7" name="level" value="7" />
+					<label for="level_7">Level 7</label>
+				</div>
+				<div class="div-table-col" align="center">
+					<button class="button" onclick="generate_character_sheet('F')">Fighter</button> <br>
+					<button class="button" onclick="generate_character_sheet('R')">Ranger</button> <br>
+					<button class="button" onclick="generate_character_sheet('MU')">Magic User</button> <br>
+					<button class="button" onclick="generate_character_sheet('C')">Cleric</button> <br>
+					<button class="button" onclick="generate_character_sheet('T')">Thief</button> <br>
+				</div>
+				<div class="div-table-col" align="center" id="character">
+				</div>
+				<div class="div-table-col" align="center" id="charsheet">
+				</div>
+				<div class="div-table-col" align="center" id="inventory">
 				</div>
 			</div>
-		</p>
-
-		<p id="character"></p>
-		<p id="charsheet"></p>
+		</div>
 	</body>
 </html>
