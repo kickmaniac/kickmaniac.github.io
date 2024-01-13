@@ -1,1 +1,43 @@
-TEST
+<html>
+	<head>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<script src="scripts/main.js"></script>
+
+		
+
+		
+		
+		
+		<p id="menu">
+			<div class="div-table">
+				<div class="div-table-row">
+					<div class="div-table-col" align="center">
+						<label>Level</label>
+						<input class="number" type="number" id="level" name="level" min="1" max="10" value="3">
+					</div>
+					<div class="div-table-col" align="center">
+						<button class="button" onclick="generate_character_sheet('F')">Fighter</button>
+					</div>
+					<div class="div-table-col" align="center">
+						<button class="button" onclick="generate_character_sheet('R')">Ranger</button>
+					</div>
+					<div class="div-table-col" align="center">
+						<button class="button" onclick="generate_character_sheet('MU')">Magic User</button>
+					</div>
+					<div class="div-table-col" align="center">
+						<button class="button" onclick="generate_character_sheet('C')">Cleric</button>
+					</div>
+					<div class="div-table-col" align="center">
+						<button class="button" onclick="generate_character_sheet('T')">Thief</button>
+					</div>
+				</div>
+			</div>
+		</p>
+
+		<p id="character"></p>
+		<p id="charsheet"></p>
+	</body>
+</html>
