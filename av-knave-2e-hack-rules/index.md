@@ -19,3 +19,7 @@ How does divine magic work? [Divine Magic](https://kickmaniac.github.io/av-knave
 How does alchemy and herbalism work? [Alchemy](https://kickmaniac.github.io/av-knave-2e-hack-rules/alchemy/)
 
 What kinds of standard equipment and items exist? [Equipment](https://kickmaniac.github.io/av-knave-2e-hack-rules/equipment/)
+
+What to do in the dungeon? [Delving](https://kickmaniac.github.io/av-knave-2e-hack-rules/delving/)
+
+What activities can be performed in the downtime? [Downtime](https://kickmaniac.github.io/av-knave-2e-hack-rules/downtime/)
