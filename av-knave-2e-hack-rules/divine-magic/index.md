@@ -17,16 +17,15 @@ Characters can have a number of **blessings**/**relics** active equal to their *
 
 ## Scrolls 
 
-Divine Scrolls 
-
+Divine Scrolls are written in mundane languages as prayers, thus anyone who can read the specific language can attempt to ask for the divine blessing.
 
 ### Using the scrolls 
 
-The scroll must be **held in hand** and **read out loud** to be cast. Divine scrolls can be used by anyone as long as they succeed a **CHA check**:
+The scroll must be **held in hand** and **read out loud** to be cast. Divine scrolls **can be used by anyone** as long as they succeed a **CHA check**:
 
 - **CHA check** at **DC 11 + Spell Level** 
 
-Casting a spell from an opposing domain might confer penalties to the roll. 
+Casting a spell from an opposing domain might confer penalties to the roll. Casting a spell with a prayer to the character's patron (or non-opposing) deity or casting a spell the effects of which land in the character's patron's domain might provide a bonus. 
 
 > **Example**: a cleric of God of Triumph, Power and Domination uses the Cure Light Wounds scroll on a poor injured peasant. Unless justified properly this might inflict a -2 (or more, at Referee's discretion) penalty to the roll.
 

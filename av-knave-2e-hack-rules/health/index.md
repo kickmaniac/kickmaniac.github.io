@@ -6,6 +6,12 @@ Consider the **Hit Points** (HP) as an abstract measure of light physical damage
 
 **Direct Damage** (the wounds affecting the **Equipment Slots** directly) on the other hand is actual **long-term physical damage** - broken bones, 3rd degree burns, deep cut wounds etc.
 
+> **Example**: Roric has 3 HP left and 11 Equipment Slots. He suffers a blow for 5 damage. 3 hits are taken by the HP pool, but 2 wounds are inflicted. Now Roric has 0 HP and 9 Equipment Slots. 
+
+The character can choose which equipment slot to put a wound into. If the slot is occupied by an item (equipped or packed), the item is either dropped or (potentially, at the Referee's discrtetion) destroyed! 
+
+> **Example**: Roric is in a bad spot and he suffers another 4 damage to his Equipment Slots and his life is hanging on 5 remaining slots. Too bad that he had 6 Armour Points worth of armour on him and by having only 5 slots left he can only have 5 items - he chose to drop 2 armour pieces so that he can still hold his sword! He now has 14 AC, instead of 16! 
+
 ## Natural Healing
 
 A **full day of rest** and doing nothing else but recovering **in a safe haven** restores **1d6 + CON** hit points. 
