@@ -174,3 +174,13 @@ Selling used equipment might be possible at 50% value rates.
 |  |  GP |  |
 |  |  GP |  |
 |  |  GP |  |
+
+
+
+## Special Gear
+
+| Item | Nominal Price | Description |
+| --- | --- | --- |
+| Alchemical Vial | 500 GP | Enchanted vial allowing preservation of humours. Can hold up to 100 GP worth of ingredients. Takes up a slot. |
+| Chaos Essence Container | 500 GP | Enchanted box/crystal/some other object can hold up to 100 GP worth of the essence. Takes up a slot. |
+|  |  GP |  |

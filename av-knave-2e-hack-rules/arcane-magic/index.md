@@ -157,3 +157,10 @@ Sometimes things don’t go right when dealing with the delicate aspects of the 
 | 21 | Roll twice on this table and combine the results!  | 
 | 22 | Your spell tears the fabric of reality and summons d2 random creatures of d4+2 HD that will attack you. | 
 | 23 | Be summoned to another dimension as a servant for d6 days. You return with 3 wounds. | 
+
+
+## Chaos Essence 
+
+All magic comes from the primordial Chaos. Magic is dangerous and unstable and is often treated with suspicion. 
+
+Experienced Mages can extract pure Chaos Essence from magical creatures (from their remains) or other sources. Such pure Chaos energy is used to imbue the potions with magic. 
