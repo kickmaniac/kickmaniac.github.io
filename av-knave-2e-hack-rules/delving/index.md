@@ -22,8 +22,8 @@ Upon entering a new area (room, corridor, street etc.) only the most obvious det
 
 | Difficulty | Explanation and Examples | 
 | --- | --- | 
-| **Under Duress** | When moving through an area at non-exploration speed (e.g., running/fleeing from chasing monsters): <ul><li> Basic dimensions (big or small room, corridor etc.) and light situation</li><li> General environment style described in broad terms (e.g., a room full of bookshelves or a floor that is covered with 10-cm of water etc.)</li><li> Obvious monsters/NPCs</li></ul>| 
-| **First Glance** | When entering an area at exploration speed or slower the first glance impression is given on top of the above: <ul><li>Detailed dimensions</li><li>Overall description of furniture, decorations and other objects and creatures in the area.</li></ul> | 
+| **Under Duress** | When moving through an area at non-exploration speed (e.g., running/fleeing from chasing monsters): **basic dimensions** (big or small room, corridor etc.) and light situation, **general environment** style described in broad terms (e.g., a room full of bookshelves or a floor that is covered with 10-cm of water etc.), **obvious monsters**/NPCs| 
+| **First Glance** | When entering an area at exploration speed or slower the first glance impression is given on top of the above: **Detailed dimensions**, **overall description** of furniture, decorations and other objects and creatures in the area. | 
 
 **Searching for hidden elements** that are not obviously visible **takes time** (and other resources, like light). The referee is free to improvise what parts of the environment are harder or easier to discover, unless specified clearly in the adventure module. Searching is assumed to be performed in a **10x10’ area** (3x3m). 
 
