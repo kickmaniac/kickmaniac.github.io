@@ -1,5 +1,7 @@
 # Alchemy
 
+If the Players are willing to dabble in alchemy or becoming a supplier for a local alchemist, they have the options described in this chapter. 
+
 Potions and other alchemical products require the following to be created: 
 
 1. Mundane materials 
@@ -8,7 +10,6 @@ Potions and other alchemical products require the following to be created:
 4. Special Ingredients 
 
 > **Design note**: alchemy is considered to be quite a luxorious affair. Most commercial alchemists are normally actings as herbalists and apothecaries, offering some medical help, simple surgeries and simple herbal/mineral remedies. Creating magical potions is not a very good business - the potions are expensive and common public is not very much interested in them (or can afford them).
-
 
 ## Ingredients 
 
@@ -112,9 +113,11 @@ City alchemists will pay for the components at the usual rates - starting at 50%
 
 Buying needed components from alchemists can be done at the usual rates - starting at 200% of value. There is a chance that the alchemist does not have Chaos Essence at their disposal or available for sale at this moment (50% base chance due to its rarity). 
 
-### Selling Potions
+### Buying Potions
 
 Potions are considered a **major luxury**. Basic **costs** for the potion (assuming replicating a spell) are **500 GP per spell level**. Prices will be even higher. 
+
+At the same time, the alchemists are normally not inclined to buy potions, unless their interest is piqued somehow.
 
 ### Identifying Potions
 
