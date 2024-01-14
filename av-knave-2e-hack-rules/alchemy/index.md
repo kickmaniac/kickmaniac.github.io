@@ -7,16 +7,20 @@ Potions and other alchemical products require the following to be created:
 3. Bodily Humours 
 4. Special Ingredients 
 
+> **Design note**: alchemy is considered to be quite a luxorious affair. Most commercial alchemists are normally actings as herbalists and apothecaries, offering some medical help, simple surgeries and simple herbal/mineral remedies. Creating magical potions is not a very good business - the potions are expensive and common public is not very much interested in them (or can afford them).
 
-## Mundane materials 
+
+## Ingredients 
+
+### Mundane materials 
 
 Potions require certain amount of mundane materials to be consumed during the brewing process (starting with as simple as water and coal for fire and ending with commonly available minerals and herbs). These materials are normally available at settlements at nominal prices, though the Referee is free to decide that some materials might be less common in a specific place. 
 
 The amount of mundane materials needed for a recipe is paid out directly from the party's budget. 
 
-## Extracting humours
+### Extracting humours
 
-Humours are extracted from living/organic matter. 
+One of the main alchemical components, the humours are extracted from living/organic matter. 
 
 In order to extract humours from a recently deceased body the character must satisfy the following requirements: 
 
@@ -47,7 +51,7 @@ A character can chose to **either** extract humours **or** Chaos Essense from on
 
 **Humours** of different kind **cannot be mixed** in the same alchemical vial! 
 
-## Collecting Chaos Essence
+### Collecting Chaos Essence
 
 Chaos essence represents the arcane and extraplanar energies permeated through the Cosmos. It is extracted from magical constructs, demons and supernatural creatures (including magical beasts and plants). Normally if a creature is sufficiently magical it can possess Chaos Essence (even higher level wizarads have probably been exposed to enough Chaos over their careers to carry some Chaos spark). Normal humanoids and mundane beasts normally don't have any Chaos Essence. 
 
@@ -58,27 +62,23 @@ In order to extract it from the source the following requirements must be satisf
 3. **Spend 6 turns** 
 4. Have a **container** to store the extracts - a magical containment box (might be available for buying in local magic guilds at minimum 500 GP price - each containment box can hold 100 GP worth of Chaos Essence). 
 
-
 **A successful attempt** yields 1d4 worth of Chaos Essence. 
 
 A character can chose to **either** extract humours **or** Chaos Essense from one corpse, if the type of creature allows it.
 
-## Special Ingredients
+### Special Ingredients
 
 Some potions require a special ingredient that cannot be harvested via normal means. 
 
 > **Example**: a vial of sea water, a liar's tongue, a locket of virgin's hair, a four-leaf clover, an unusual coin. 
 
-> **Example**: a 
-
-
-## Selling alchemical components
-
-City alchemists will pay for the components at the usual rates - starting at 50% of value. 
-
-Buying needed components from alchemists can be done at the usual rates - starting at 200% of value. There is a chance that the alchemist does not have Chaos Essence at their disposal or available for sale at this moment (50% base chance due to its rarity). 
-
 > **Example**: a character needs 36 GP worth of Phlegm. Local alchemist will offer to provide the amount for 72 GP. 
+
+## Foraging 
+
+Foraging (WIS check) for a watch (4 hours) in the wilderness yields one dose of a random humour (see the table above).
+
+Large underground caverns can also be foraged (with the usual risks of wandering monsters and resource depletion).  
 
 ## Recipes 
 
@@ -88,7 +88,11 @@ Each potion requires material component, by alchemical ingredients represented a
 
 **Note** that players knowing the recipes does not mean that the characters know them. 
 
+### Antitoxins
 
+Antitoxins are prepared to counter a **specific type of poison** (snake, spider, plant etc.) and **offer another chance** for save vs. poison with -2 penalty **if taken within 1 round** from poisoning. Antitoxins **cost 300-600 GP**. 
+
+Antitoxins are prepared as normal potions (base cost ~500 GP), but normally **require a special ingredient**, e.g., a venomous gland of a specific creature.
 
 ## Brewing Potions
 
@@ -100,22 +104,23 @@ Brewing potions requires the following:
 - Necessary ingredients (see above)
 - **INT check** (DC is defined by the Referee depending on the intended effect, which normally replicates effects of  some magical spell, e.g., **DC 16 + spell level**). The roll to make a potion is a **secret roll**!
 
-## Buying Potions
+## Your Local Alchemist
+
+### Buying and Selling Alchemical Components
+
+City alchemists will pay for the components at the usual rates - starting at 50% of value. 
+
+Buying needed components from alchemists can be done at the usual rates - starting at 200% of value. There is a chance that the alchemist does not have Chaos Essence at their disposal or available for sale at this moment (50% base chance due to its rarity). 
+
+### Selling Potions
 
 Potions are considered a **major luxury**. Basic **costs** for the potion (assuming replicating a spell) are **500 GP per spell level**. Prices will be even higher. 
 
-## Herbal Remedies
+### Identifying Potions
+
+Base price for identification of potions is 50 GP. 
+
+### Herbal Remedies
 
 Herbal remedies offer very minor, temporary or even superficial (not all folk remedies actually do work) effects. At most they reduce the duration of ill effects (e.g., reduce the number of days a character spends bedridden, battling a disease), or offer another chance at saving throws. Herbal remedies are worth from 10 GP upwards. There is always a major chance that you will buy a dud (secret roll of at least 75%). 
 
-## Foraging 
-
-Foraging (WIS check) for a watch (4 hours) in the wilderness yields one dose of a random humour (see the table above).
-
-Large underground caverns can also be foraged (with the usual risks of wandering monsters and resource depletion).  
-
-## Antitoxins
-
-Antitoxins are prepared to counter a **specific type of poison** (snake, spider, plant etc.) and **offer another chance** for save vs. poison with -2 penalty **if taken within 1 round** from poisoning. Antitoxins **cost 300-600 GP**. 
-
-Antitoxins are prepared as normal potions (base cost ~500 GP), but normally **require a special ingredient**, e.g., a venomous gland of a specific creature.

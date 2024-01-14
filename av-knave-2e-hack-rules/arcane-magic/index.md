@@ -28,9 +28,11 @@ Each spellbook takes up **one slot** in the inventory.
 > 
 > Additionally classic spells can be adjusted. E.g., the classic Fireball does 1d6 damage per level of caster. This can be adjusted to 1d4 per level of caster. 
 
-### Captures spellbooks
+### Captured spellbooks
 
-**Deciphering** of the captured spellbook allows its usage. Deciphering is acomplished via magical writing comprehension methods, e.g., **Read Magic** spell.
+**Deciphering** of the captured spellbook allows its usage. Deciphering is acomplished via magical writing comprehension methods, e.g., **Read Magic** spell. The spellbook contains the detailed explanation of the workings of the spell, thus there is no need to separately decipher the spell apart from being able to read the tome with Read Magic.
+
+> **Design note**: Capturing spellbooks is assumed to be the most common way of acquiring new spells. 
 
 ## Scrolls 
 
@@ -47,7 +49,7 @@ The scroll must be **held in hand** and **read out loud** to be cast. The scroll
 
 - **INT check** at **DC 11 + Spell Level** 
 
-> **Lore dump** some gods might disapprove the usage of arcane spells by their devotees! 
+> **Lore dump**: some gods might disapprove the usage of arcane spells by their devotees! 
 
 ### Identifying the scroll
 
