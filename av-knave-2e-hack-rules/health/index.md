@@ -53,3 +53,8 @@ Unless a potion replicates effects of a magic spell, herbalism offers minor impr
 - Preparing or buying a salve, ointment, decoction with specific intended effect might provide temporary relief or speed up natural healing. 
 
 > **Example**: the party bought some herbal decoction that should provide some relief for fever and during one of the delves one character has been bitten by a rat, catching some disease. The herbal medicine helped the character to walk to the exit of the dungeon on their own (albeit they were not able to perform any major task), after which they collapsed exhausted. 
+
+
+---
+
+[Back To the Start](https://kickmaniac.github.io/av-knave-2e-hack-rules/)

@@ -70,13 +70,15 @@ Cumulative (roll + ability score + modifiers) **positive result** with a **diffe
 > Roll of 17 + 4 STR = 21. This is a **critical success**! The character manages to climb an extra 10 feet of rope for a total of 20’ which is enough to escape through the hole in the ceiling! 
 
 
-
 ## What tasks can be attempted?
 
 Having a good relevant ability score **does not necessarily grant an option to perform a task**. E.g., a WIS 6 character who does not have any background in herbalism or outdoor survival will still have a hard time trying to forage healing herbs in the wild, no matter how good their WIS is. And even if this succeeds, their INT 8 might not be enough reason to attempt an alchemy exercise (maybe their INT 8 comes from extensive knowledge of political history). 
 
 > **Design note**: if the player insists on trying, the Referee should give a **penalty** for not having a relevant skill/career. The players must be aware of the risks of critical failures when betting with such low odds! 
 
+### Re-attemtpting 
+
+Some checks can not be reattempted until some condition is met. The most common example is lockpicking or trap finding attempts. Failing a lockpicking attempt might require the character to level up first before another attempt is permitted. 
 
 ## Saving Throws
 

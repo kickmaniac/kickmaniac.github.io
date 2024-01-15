@@ -43,3 +43,8 @@ A **reaction roll** (2d6) is rolled as appropriate (common sense).
 | 6-8 | Uncertain, confused | 
 | 9-11 | Indifferent, may negotiate | 
 | 12 | Eager, friendly | 
+
+
+---
+
+[Back To the Start](https://kickmaniac.github.io/av-knave-2e-hack-rules/)

@@ -70,11 +70,11 @@ A character can chose to **either** extract humours **or** Chaos Essense from on
 
 ### Special Ingredients
 
-Some potions require a special ingredient that cannot be harvested via normal means. 
+Some potions require a special ingredient or be comprised entirely out of them. Such special ingredients cannot be harvested via normal means as described above. 
+
+If it makes sense to create a potion with a certain effect from it - it can be done then. This is left to the Referee and the Players to negotiate and decide. 
 
 > **Example**: a vial of sea water, a liar's tongue, a locket of virgin's hair, a four-leaf clover, an unusual coin. 
-
-> **Example**: a character needs 36 GP worth of Phlegm. Local alchemist will offer to provide the amount for 72 GP. 
 
 ### Foraging 
 
