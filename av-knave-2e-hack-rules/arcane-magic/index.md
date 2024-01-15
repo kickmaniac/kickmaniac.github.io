@@ -123,7 +123,7 @@ If in possession of a **deciphered** scroll or an **identified** spellbook the p
 
 ## Magical Implements
 
-**Magical implements** (wands, rods, staves and other items with charges) require **identification**, but can be used as long as the trigger action (word, gesture etc.) is known.  **Charges** are rolled by the Referee as a **secret roll** (normally 2d6, but can be adjusted). It is not possible to know how many charges are left. 
+**Magical implements** (wands, rods, staves and other items with charges) require **identification**, but can be used as long as the trigger action (word, gesture etc.) is known.  **Charges** are rolled by the Referee as a **secret roll** (normally 2d10, unless specified). It is not possible to know how many charges are left. 
 
 ## Identifying Magical Items
 

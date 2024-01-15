@@ -39,6 +39,8 @@ Combat and Feats of Exploration experience is converted at the end of the game s
 
 **Pieces of art** are **not** converted into XP - tapestries, statues, paintings etc. 
 
+**Quest rewards** do not count.
+
 | Target | XP | To Next | Ability Points | HP |
 | --- | --- | --- | --- | --- |
 | 1 | 0 | 2000 | n/a | 1d6 | 
