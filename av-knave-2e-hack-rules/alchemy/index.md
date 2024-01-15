@@ -2,12 +2,13 @@
 
 If the Players are willing to dabble in alchemy or becoming a supplier for a local alchemist, they have the options described in this chapter. 
 
-Potions and other alchemical products require the following to be created: 
+Potions and other alchemical products require all or some of the following to be created: 
 
 1. Mundane materials 
 2. Chaos Essence
 3. Bodily Humours 
-4. Special Ingredients 
+4. Minerals
+5. Special Ingredients 
 
 > **Design note**: alchemy is considered to be quite a luxorious affair. Most commercial alchemists are normally actings as herbalists and apothecaries, offering some medical help, simple surgeries and simple herbal/mineral remedies. Creating magical potions is not a very good business - the potions are expensive and common public is not very much interested in them (or can afford them).
 
@@ -15,7 +16,7 @@ Potions and other alchemical products require the following to be created:
 
 ### Mundane materials 
 
-Potions require certain amount of mundane materials to be consumed during the brewing process (starting with as simple as water and coal for fire and ending with commonly available minerals and herbs). These materials are normally available at settlements at nominal prices, though the Referee is free to decide that some materials might be less common in a specific place. 
+Potions require certain amount of mundane materials to be consumed during the brewing process (starting with as simple as water and coal for fire ). These materials are normally available at settlements at nominal prices, though the Referee is free to decide that some materials might be less common in a specific place. 
 
 The amount of mundane materials needed for a recipe is paid out directly from the party's budget. 
 
@@ -75,19 +76,21 @@ Some potions require a special ingredient that cannot be harvested via normal me
 
 > **Example**: a character needs 36 GP worth of Phlegm. Local alchemist will offer to provide the amount for 72 GP. 
 
-## Foraging 
+### Foraging 
 
-Foraging (WIS check) for a watch (4 hours) in the wilderness yields one dose of a random humour (see the table above).
+Foraging (WIS check) for a watch (4 hours) in the **wilderness** yields one dose of a random humour (see the table above).
 
-Large underground caverns can also be foraged (with the usual risks of wandering monsters and resource depletion).  
+Large underground caverns or mines can also be foraged (with the usual risks of wandering monsters and resource depletion). 
 
 ## Recipes 
 
-Each potion requires material component, by alchemical ingredients represented abstractly as their worth in GP. Normally a potion replicating effects of a spell require materials worth 500 GP per level.
+Each potion requires material component (represetnted by alchemical ingredients represented abstractly as their worth in GP) and an explanation on how to concoct them all together. Normally a potion replicating effects of a spell require materials worth ~500 GP per level.
 
-> **Example**: a healing potion might require Blood (200 GP), Mundane materials (200 GP), Chaos Essence (50 GP), Yellow Bile (50 GP) and a honeycomb (special ingredient). The characters must get hold of necessary ingredients and 200 GP (mundane materials) in order to attempt brewing. 
+Recipes are unknown to the characters to begin with and must be obtained through adventure. Alchemists are usually not willing to part with such secrets. 
 
-**Note** that players knowing the recipes does not mean that the characters know them. 
+> **Example**: a healing potion might require Blood (150 GP), Mundane materials (250 GP), Chaos Essence (50 GP), Yellow Bile (50 GP) and a honeycomb (special ingredient). The characters must get hold of necessary ingredients and 200 GP (mundane materials) in order to attempt brewing. 
+
+**Note** that players knowing the recipes does not mean that the characters know them
 
 ### Antitoxins
 
@@ -104,6 +107,8 @@ Brewing potions requires the following:
 - A full day of work per level of spell/effect
 - Necessary ingredients (see above)
 - **INT check** (DC is defined by the Referee depending on the intended effect, which normally replicates effects of  some magical spell, e.g., **DC 16 + spell level**). The roll to make a potion is a **secret roll**!
+
+Some simple potions, ointments, remedies might be created in the field with just a fire and a cauldron. This is left for the Referee to decide.
 
 ## Your Local Alchemist
 
@@ -127,3 +132,14 @@ Base price for identification of potions is 50 GP.
 
 Herbal remedies offer very minor, temporary or even superficial (not all folk remedies actually do work) effects. At most they reduce the duration of ill effects (e.g., reduce the number of days a character spends bedridden, battling a disease), or offer another chance at saving throws. Herbal remedies are worth from 10 GP upwards. There is always a major chance that you will buy a dud (secret roll of at least 75%). 
 
+### Alchemical Supplies 
+
+| Item | Nominal Price | Description |
+| --- | --- | --- |
+| Vial of Blood (quantity worth 50 GP) |  100 GP | Must be used immediately unless stored in a special Alchemical Vials |
+| Vial of Yellow Bile (quantity  worth 50 GP) | 150 GP | Must be used immediately unless stored in a special Alchemical Vials |
+| Vial of Black Bile (quantity  worth 50 GP) | 200 GP | Must be used immediately unless stored in a special Alchemical Vials |
+| Vial of Phlegm (quantity  worth 50 GP) | 250 GP | Must be used immediately unless stored in a special Alchemical Vials |
+| Alchemical Vial | 500 GP | Can hold up to 100 GP worth of alchemical reagent |
+| Laboratory Set | 1000+ GP | Takes up a room |
+| Laboratory Set Delux | 2000+ GP | Grants bonuses (faster brewing, bonus to the INT rolls, better potions etc.) |

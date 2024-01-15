@@ -9,8 +9,7 @@ The following common sources of visibility can be used in the dungeons:
 - **Oil lanterns** last for 24 turns and illuminate space in a radius of 30 ft. 
 - **Candles** last for 12 turns and illuminate space in a radius of 10 ft. 
 - **Darkvision** allows seeing heat signatures in the dark in a radius of 30-60 ft.
-
-Improvised torches would illuminate the usual 30 ft radius, but will last for 1d4 turns. 
+- **Improvised torches** would illuminate the usual 30 ft radius, but will last for 1d4 turns (**secret roll**). 
 
 Carrying visible light makes the party visible to anyone who is hiding in the darkness. Party carrying the torch cannot surprise anyone! 
 
@@ -56,3 +55,11 @@ Other factors like exhaustion, deafness/blindness, room environment (e.g., steam
 > **Design note**: this mechanic is intended to replace x-in-6 or %-based search for traps or hidden objects present in other systems. This allows players to exchange their time and consumables for secrets without potentially locking it completely behind a random roll. 
 
 > **Design note**: for modules’ compatibility the Referee should use common sense and hints, e.g., if a secret door is said to be normal to find (or 1-in-6 for example), then a Normal difficulty is applied or potentially even Easy, leaving more carefully hidden features to be behind 2+ turns of searching. 
+
+
+## Using abilities 
+
+The Players may decide to listen (WIS check), search for the traps on a specific object (INT check), break doors (STR check) etc. Each such activity takes 1 turn and the result is left to the dice to decide. This gives a chance to find an Extraordinary trap within one turn, though. If something was Easy to uncover, having spent the turn doing something related to investigation of an area or an object should reaveal the Easy details. 
+
+> **Example**: the party is facing a door. There is no obvious noise coming from behind it. The resident Elf decides to spend a turn listening in to the door, trying to figure our what is behind it. The Referee deems it a Normal check with DC 16. The Player (or the Referee if they decide to play it as a secret roll) rolls a 2 and Elf's heritage adds a +3, but this is still not enough... the only thing the Elf hears is breathing of his companions and normal dungeon ambiance.
+

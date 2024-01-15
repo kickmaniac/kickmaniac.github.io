@@ -41,13 +41,13 @@ Any item packed or equipped above the normal limit (10 + CON) must be dropped or
 
 - **Small sack** can fit 5 slots and must be carried in one hand (one hand in the main inventory is filled with a sack, so it effectively gives 4 extra slots). 
 - **Two small sacks** must be carried in two hands (8 extra slots)
-- **Big sack** can fit 12 slots and must be carried in both hands (both hands in the main inventory must be filled with a big sack, so it effectively gives 12 extra slots)
+- **Big sack** can fit 12 slots and must be carried in both hands (both hands in the main inventory must be filled with a big sack, so it effectively gives 10 extra slots)
 
-| Movement | Unencumbered | One Small Sack | One Big Sack or Two Small Sacks |
-| --- | --- | --- | --- | 
-| Travel |  |  |  |  
-| Exploration | 120' | 90' | 60' |  
-| Encounter | 40' | 30' | 20' |  
+| Movement | Base | 4+ pieces of armour | One Small Sack | One Big Sack or Two Small Sacks |
+| --- | --- | --- | --- | --- | 
+| Travel |  |  |  |  |
+| Exploration | 120' | -10' | -10' | -10' |  
+| Encounter | 40' | -10' | -10' | -10' |  
 
 **Note** that empty sacks are unencumbering items.
 
@@ -87,7 +87,7 @@ Selling used equipment might be possible at 50% value rates. Some cheaper equipm
 | Flail | 10 GP | Deadly, Shield Grappler, Crushing, Two-Handed |
 | Greatsword | 25 GP | Brutal, Deadly, Two-Handed |
 | Hand Axe | 4 GP | Light, Missile 10/20/30, Shield Grappler |
-| Javelin/dart | 1 GP | Missile 30/60/90 |
+| Javelin | 1 GP | Missile 30/60/90 |
 | Longbow | 40 GP | Deadly, Missile 70/140/210, Two-Handed |
 | Mace | 7 GP |  |
 | Polearm | 15 GP | Brace, Deadly, Two-Handed |
@@ -97,8 +97,10 @@ Selling used equipment might be possible at 50% value rates. Some cheaper equipm
 | Spear | 4 GP | Brace, Missile 20/40/60, Reach |
 | Staff | 2 GP | Two-Handed |
 | Sword | 20 GP | Quick-Draw, Versatile |
-| Warhammer | 6 GP | Crushing |
 
+Other weapons follow the general archetype. E.g., a Katana will be the same as a Sword. Bardiches, Partisans, Halberds, Glaves are different types of a Polearm. Maces, warhammers, gadas are types of maces. The prices may vary though. 
+
+**Optionally** weapons dealing different type of damage might be judged differently. E.g., a piercing spear might do half damage to skeletons, and if used as a long club might either break on an impact or deal damage at disadvantage! 
 
 | Item | Nominal Price | Description |
 | --- | --- | --- |
@@ -171,6 +173,31 @@ Selling used equipment might be possible at 50% value rates.
 
 | Item | Nominal Price | Description |
 | --- | --- | --- |
+| Torches x3 | 1 GP | Burns for 6 turns, illuminates 30', one torch takes up a slot |
+| Lantern | 10 GP | When filled with lanter oil - lasts for 24 turns and illuminates 30' |
+| Flask of Lantern Oil | 2 GP | Lasts for 24 turns, can be thrown, but the oil must be lit first |
+| Ration, Iron | 2 GP | Enough food for a day |
+| Waterskin (2l) | 2 GP |  |
+| Set of lockpicks | 25 GP | Might break on a cricically failed usage (DEX) check |
+| Set of lockpicks (delux) | 125 GP | +1 to the lockpicking rolls. Might break on a cricically failed usage (DEX) check |
+| Tinder box (flint and steel) | 3 GP |  |
+| Sack (Large) | 2 GP | 12 extra slots, must be carried in two hands |
+| Sack (Small) | 1 GP | 5 extra slots, must be carried in one hand |
+| Religious Holy Symbol (bronze, iron, wooden etc.) | 25 GP | Standard Holy Symbol. Might be imbued with divine powers! |
+| Religious Holy Symbol (silver) | 100 GP | A better version of a Holy Symbol. Might confer some bonuses. Takes up a slot |
+| Religious Holy Symbol (gold) | 250 GP | An even better version of a Holy Symbol. Might confer better bonuses. Takes up a slot  |
+| Wooden Stakes x3 and a Mallet | 3 GP |  |
+| Iron Spikes x12 | 3 GP |  |
+| Hammer (small) | 3 GP |  |
+| Crowbar | 10 GP |  |
+| Rope 50' | 2 GP |  |
+| Grappling Hook | 20 GP |  |
+| Holy Water | 25 GP |  |
+|  |  GP |  |
+|  |  GP |  |
+|  |  GP |  |
+|  |  GP |  |
+|  |  GP |  |
 |  |  GP |  |
 |  |  GP |  |
 |  |  GP |  |
@@ -184,3 +211,4 @@ Selling used equipment might be possible at 50% value rates.
 | Alchemical Vial | 500 GP | Enchanted vial allowing preservation of humours. Can hold up to 100 GP worth of ingredients. Takes up a slot. |
 | Chaos Essence Container | 500 GP | Enchanted box/crystal/some other object can hold up to 100 GP worth of the essence. Takes up a slot. |
 |  |  GP |  |
+

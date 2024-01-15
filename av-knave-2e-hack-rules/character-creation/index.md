@@ -100,6 +100,7 @@ You are a halfling from the Grain Islands.
 
 - **Modify one ability score** by +1 for the maximum of 2 *at character creation*.
 - Bonus +1 to **foraging** (WIS) checks
+- **To-hit** +1 for two-handed melee weapons.
 - **Once per day** when reaching 0 HP in combat, roll a CON check at DC 16 and set current HP to 1.
 - Roll **one career** randomly at *character creation*. 
 - Gain **Thorcin language**
@@ -109,7 +110,7 @@ You are a halfling from the Grain Islands.
 - **Modify one ability score** by +1 for the maximum of 2 *at character creation*.
 - Knoweledge of **horses and riding**
 - **To-hit** +1 for bows of all kinds.
-- Bonus +1 to **foraging**, **animal skinning** (WIS) checks
+- Bonus +1 to **foraging for food** (WIS) checks
 - Roll **one career** randomly at *character creation*. 
 - Gain **Khumus language**
 
