@@ -69,7 +69,7 @@ function generate_character_sheet(char_class) {
 	let ranged_thac0 = character_sheet[4];
 	let ac = 10 + ap;
 
-	print_character_summary(class_name, level, hp, melee_thac0, ranged_thac0, ac)
+	print_character_summary(class_name, level, hp, melee_thac0, ranged_thac0, ac, character_sheet)
 	print_character_sheet(character_sheet);
 	print_inventory(ap, class_name, level, character_sheet);
 }
@@ -218,7 +218,7 @@ function print_inventory(ap, class_name, level, character_sheet) {
 
 }
 
-function print_character_summary(class_name, level, hp, melee_thac0, ranged_thac0, ac) {
+function print_character_summary(class_name, level, hp, melee_thac0, ranged_thac0, ac, character_sheet) {
 	let html_insert = "";
 
 	html_insert += '<div class="div-table-row" align="center"><b>' + class_name + '</b></div>';
@@ -237,6 +237,13 @@ function print_character_summary(class_name, level, hp, melee_thac0, ranged_thac
 	html_insert += '<div class="div-table-row" align="center">Ranged: ' + ranged_thac0 + '</div>';
 
 	document.getElementById("character").innerHTML = html_insert;
+
+	html_insert = '<div class="div-table-row" align="center"><b>Summary</b></div>';
+	html_insert += '<div class="div-table-row" align="center">';
+	html_insert += 'STR ' + character_sheet[0] + ' DEX ' + character_sheet[1] + ' CON ' + character_sheet[2] + ' INT ' + character_sheet[3] + ' WIS ' + character_sheet[4] + ' CHA ' + character_sheet[5] + ' HP ' + hp + ' Thac0 (' + melee_thac0 + '/' + ranged_thac0 + ')' + ' AC [' + ac + ']';
+	html_insert += '</div>';
+
+	document.getElementById("summary").innerHTML = html_insert;
 }
 
 function print_character_sheet(sheet) {

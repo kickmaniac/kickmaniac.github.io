@@ -23,7 +23,17 @@ A **reaction roll** (2d6) is rolled as appropriate (common sense).
 4. Losers repear 3-1 to 3-5
 5. Back to the top of the round! 
 
-## Moral Check 
+## Monster HD and NPC Levels
+
+For conversion's sake monster add a bonus to to-hit roll equal to their HD until HD 8 **or** as written in the module. After than to-hit bonus improves by +1 for every 2 HD (e.g., HD10 +9, HD12 +10, HD14 +11 etc.).
+
+Classed and leveled NPCs should follow their stats blocks as written in the module or according to the following sample tables:
+
+| Class | Level | Melee | Ranged | Spells | HP | Example Stats | 
+| --- | --- | --- | --- | --- | --- | --- | 
+| Fighter | 1 | +1 | +1 | 0 |  |  | 
+
+## Morale Check 
 
 **Roll 2d6** when NPC/Monsters's side suffers the first death or loses half of its strength. Other significant factors may contribute (sudden arrival of reinforcements, death of leader etc.)
 

@@ -97,11 +97,12 @@ In order to create a **new spellbook** (even from the existing Magic User's or I
 
 > **Example**: Vorthmour (Level 5, INT 4) *fumbled* when creating a spellbook for the Lightning Bolt, so now he has a spellbook that does the usual Lightning Bolt, but he also gets shocked for 2d6 damage every time he uses it! 
 
-> **Lore dump**: due to complexity and costs the spellbook creation is done only by high-level wizards and the main source of spellbooks for adventurers is other adventurers. Because each spellbook is written in the spellcaster's personal code teh spellbooks are never traded (lest your secrets become open!), but a trophy spellbook might be given as a reward for a quest.
+> **Lore dump**: Due to complexity and costs, spellbook creation is undertaken only by high-level wizards, and the primary source of spellbooks for adventurers is other adventurers. Since each spellbook is written in the spellcaster's personal code, the spellbooks are never traded (lest your secrets become exposed!), but a trophy spellbook might be given as a reward for a quest.
 
 **Spell Level** is defined by the classic spell level from one of editions of the most popular role-playing game or is defined by the Referee based on the description of the spell given by the player. 
 
-Creation of spell books **under tutelage** or in good **magic laboratories** might reduce time or increase the chance of success (e.g., if the master wizard likes the character and knows the spell, they can improve the odds by reducing the DC to 10 + Spell Level). **Monetary costs** depend on the circumstances, but **cannot be affected** much due to the cost of material components required for the spellbook creation. 
+
+Creation of spellbooks **under tutelage** or in reputable **magical laboratories** might reduce time or increase the chance of success (e.g., if the master wizard favors the character and is familiar with the spell, they can improve the odds by lowering the DC to 10 + Spell Level). **Monetary costs** depend on the circumstances but **cannot be significantly affected** due to the cost of material components required for spellbook creation.
 
 A player might decide to create a **random spell book** at lower cost (adjudicated by the Referee)!
 
