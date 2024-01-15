@@ -63,3 +63,6 @@ The Players may decide to listen (WIS check), search for the traps on a specific
 
 > **Example**: the party is facing a door. There is no obvious noise coming from behind it. The resident Elf decides to spend a turn listening in to the door, trying to figure our what is behind it. The Referee deems it a Normal check with DC 16. The Player (or the Referee if they decide to play it as a secret roll) rolls a 2 and Elf's heritage adds a +3, but this is still not enough... the only thing the Elf hears is breathing of his companions and normal dungeon ambiance.
 
+---
+
+[Back To the Start](https://kickmaniac.github.io/av-knave-2e-hack-rules/)

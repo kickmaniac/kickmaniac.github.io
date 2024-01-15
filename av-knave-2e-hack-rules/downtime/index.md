@@ -83,3 +83,7 @@ Gaining a **new career** requires time and money. Depending on the type of caree
 Hunting or fishing  in the **wilderness** requires a successful WIS check and generates 1d6 rations that must be consumed the same day (cannot be stored). 
 
 Failed WIS check when hunting might provoke a combat encounter with the wild beast. 
+
+---
+
+[Back To the Start](https://kickmaniac.github.io/av-knave-2e-hack-rules/)

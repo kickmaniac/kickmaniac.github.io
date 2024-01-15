@@ -134,6 +134,14 @@ Magically enhanced items (starting with things as simple as Dagger +1) can be **
 
 Sometimes things don’t go right when dealing with the delicate aspects of the supernatural and divine. Arcane or alchemical failures and divine disfavours can be rolled on the tables of magical mishaps (can be arcane, phantasmal, divine, nature etc.). In a simplified case roll a d20 on the table below and add a DC (based on spell level, for example) - note that durations can be adjusted by the Referee! 
 
+Mishaps can happen in the following cases: 
+
+- Fumbling on magical research
+- Interrupting magical rituals 
+- Disrupting casting of a spell during the combat (might be negated by an INT saving throw DC 16)
+
+> **Design note**: alternative magic mishap tables can be used, e.g., from Shadowdark or from Axian Library OSE supplement.
+
 | d20 + DC | Arcane Mishap | 
 | --- | --- | 
 | 1 | - | 
@@ -165,4 +173,9 @@ Sometimes things don’t go right when dealing with the delicate aspects of the 
 
 All magic comes from the primordial Chaos. Magic is dangerous and unstable and is often treated with suspicion. 
 
-Experienced Mages can extract pure Chaos Essence from magical creatures (from their remains) or other sources. Such pure Chaos energy is used to imbue the potions with magic. 
+Experienced Mages may attempt to extract pure Chaos Essence from magical creatures (from their remains) or other sources. Such pure Chaos energy is used to imbue the potions with magic. 
+
+
+---
+
+[Back To the Start](https://kickmaniac.github.io/av-knave-2e-hack-rules/)

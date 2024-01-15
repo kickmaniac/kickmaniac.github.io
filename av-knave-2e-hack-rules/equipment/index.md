@@ -212,3 +212,6 @@ Selling used equipment might be possible at 50% value rates.
 | Chaos Essence Container | 500 GP | Enchanted box/crystal/some other object can hold up to 100 GP worth of the essence. Takes up a slot. |
 |  |  GP |  |
 
+---
+
+[Back To the Start](https://kickmaniac.github.io/av-knave-2e-hack-rules/)

@@ -2,6 +2,10 @@
 
 Abilities are the main attributes that define the character. This set of home-brew rules is a class-less game, meaning that the Players are free to direct their characters in the directions they want by allocating points during the level up. Each Ability is associated with a classical archetype (Fighters, Thieves, Magic Users, Clerics etc.), but the system allows creation of more generalist characters (analogues of multi-class and dual-class characters in the original D&D). 
 
+Abilities range from -3 to 10. 
+
+> **Design note**: growth of abilities' scores does not represent simply an increase of a raw power of a relevant characteristic, but it's rather an abstract combination of both raw power and experience. I.e., character with STR 10 is not 10 times more buff than a character with STR 1, but rather his martial prowess is that much more impressive. 
+
 ## Strength (STR)
 
 Measure of explosive strength and martial prowess. Strength is an important attribute for front-line Fighters. Strength score affects the following: 
@@ -65,3 +69,7 @@ Measure of strength of personality and persuasion/intimidation prowess is import
 - **saving throws** versus emotion-affecting spells like fear, charm and domination.
 
 > **Example**: a character wants to hire a companion since their previous one died a gruesome death in the dungeon. However, the character has a CHA score of 1, so they cannot hire more companions unless CHA is increased! 
+
+---
+
+[Back To the Start](https://kickmaniac.github.io/av-knave-2e-hack-rules/)

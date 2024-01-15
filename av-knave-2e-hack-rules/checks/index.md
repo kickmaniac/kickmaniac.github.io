@@ -134,3 +134,7 @@ Additionally a Referee can use x-in-6 chance to resolve situations not depending
 > **Example**: a character decides to emulate a sound of giant spiders while hiding in a dark tunnel. There is arguably no associated ability score that can be of help here, so the Referee is free to adjudicate a chance as x-in-6. Potentially a career in performance art might be a boon here.
 
 > **Design note**: dice of fate can be a powerful adjudicating tool, but it can easily make the game less transparent. Use with caution! 
+
+---
+
+[Back To the Start](https://kickmaniac.github.io/av-knave-2e-hack-rules/)

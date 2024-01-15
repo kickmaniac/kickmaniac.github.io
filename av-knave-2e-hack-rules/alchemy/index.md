@@ -6,7 +6,7 @@ Potions and other alchemical products require all or some of the following to be
 
 1. Mundane materials 
 2. Chaos Essence
-3. Bodily Humours 
+3. Bodily Humours & 
 4. Minerals
 5. Special Ingredients 
 
@@ -16,7 +16,7 @@ Potions and other alchemical products require all or some of the following to be
 
 ### Mundane materials 
 
-Potions require certain amount of mundane materials to be consumed during the brewing process (starting with as simple as water and coal for fire ). These materials are normally available at settlements at nominal prices, though the Referee is free to decide that some materials might be less common in a specific place. 
+Potions require certain amount of mundane materials to be consumed during the brewing process (starting with as simple as water, alcohol, coal for fire etc.). These materials are normally available at settlements at nominal prices, though the Referee is free to decide that some materials might be less common in a specific place. 
 
 The amount of mundane materials needed for a recipe is paid out directly from the party's budget. 
 
@@ -143,3 +143,7 @@ Herbal remedies offer very minor, temporary or even superficial (not all folk re
 | Alchemical Vial | 500 GP | Can hold up to 100 GP worth of alchemical reagent |
 | Laboratory Set | 1000+ GP | Takes up a room |
 | Laboratory Set Delux | 2000+ GP | Grants bonuses (faster brewing, bonus to the INT rolls, better potions etc.) |
+
+---
+
+[Back To the Start](https://kickmaniac.github.io/av-knave-2e-hack-rules/)
