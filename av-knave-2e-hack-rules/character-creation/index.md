@@ -75,7 +75,7 @@ Choose one of available heritages (human, dwarf, elf etc.). Adjust the abilities
 
 ### Halfling
 
-You are a halfling from the Grain Islands.
+> **Lore dump**: you are a halfling from the Grain Islands, part of Archontean Empire. 
 
 - Roll **one career** randomly at *character creation*. 
 - **Saves +2** versus mind-affecting magic (e.g., sleep, charm, domination etc.). 
@@ -127,16 +127,17 @@ You are a halfling from the Grain Islands.
 
 ## Choose Languages
 
-All characters start with knowledge of Archontean (Common).
+All characters start with knowledge of Archontean (**Common**).
 
 Characters with **positive INT** can choose **one extra language** from the following list: 
 - Thorcin
 - Wiskin
 - Khumus
 - Mithric
+- Elvish
+- Dwarvish
 
 Characters with **negative INT** are **illiterate**. 
-
 
 ## Roll for the backgrounds/career
 
