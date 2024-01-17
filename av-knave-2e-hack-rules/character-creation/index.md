@@ -1,8 +1,8 @@
 # Character Creation
 
-# Roll Abilities
+## Roll Abilities
 
-## Roll the Positives
+### Roll the Positives
 
 Roll 5d6 and assign +1 for each ability indicated by the roll, where:
 - Roll of ⚀ is **STR** 
@@ -12,7 +12,7 @@ Roll 5d6 and assign +1 for each ability indicated by the roll, where:
 - Roll of ⚄ is **WIS** 
 - Roll of ⚅ is **CHA** 
 
-## Roll the Negatives
+### Roll the Negatives
 
 In a similar manner as for the Positives roll 3d6 to find which attributes suffer -1 penalty, including any that has been raised in the step above. 
 
@@ -98,7 +98,7 @@ Choose one of available heritages (human, dwarf, elf etc.). Adjust the abilities
 > **Lore dump**: inhabitants of northern Isles of Borealios, Wiskins are modelled after the Old Norse. 
 
 - **Modify one ability score** by +1 for the maximum of 2 *at character creation*.
-- Once per day, when in melee, a Wiskin can choose to enter a **berserk rage** that lasts until the end of combat. While in the rage, gain a +1 bonus to Attack and Damage Rolls, but suffer a –4 penalty to Armour Class and is unable to flee.
+- Once per day, when in melee, a Wiskin can choose to enter a **berserk rage** that lasts until the end of combat. While in the rage, gain a +2 bonus to Attack and Damage Rolls, but suffer a –4 penalty to Armour Class and is unable to flee.
 - Roll **one career** randomly at *character creation*. 
 - Gain **Wiskin language**
 
@@ -108,7 +108,7 @@ Choose one of available heritages (human, dwarf, elf etc.). Adjust the abilities
 
 - **Modify one ability score** by +1 for the maximum of 2 *at character creation*.
 - Bonus +1 to **foraging** (WIS) checks
-- Once per combat, **regain 1d4 HP** each time you deal a killing blow!
+- Once per combat, **regain 1d4 HP** when you deal a killing blow!
 - Roll **one career** randomly at *character creation*. 
 - Gain **Thorcin language**
 
@@ -144,36 +144,38 @@ Roll d100 for background/career. Note that some heritages allow rolling twice.
 
 > **Design note**: backgrounds add flavour, but also confer a potential bonus in a non-combat situation. E.g., a **Philisopher** might have an insight about a philosophical debates from the history, a **Painter** can recognise the quality of a portrait (but not not recognise who is depicted), an **Officer** might know a thing or two about army procedures and a **Cutpurse** might gain an extra +1 to pickpocketing rolls. 
 
+Careers come with a set of items! You must place **at least 3 of them** in your inventory.
+
 | d100 | Background | Items | d100 | Background | Items |
 | --- | --- | --- | --- | --- | --- | 
-| 1 | Acolyte |  | 51 | Jailer | Padlock and Key, Wine Jug | 
-| 2 | Acrobat |  | 52 | Jester |  | 
-| 3 | Actor |  | 53 | Jeweler |  | 
-| 4 | Alchemist |  | 54 | Knight |  | 
+| 1 | Acolyte | Candles x10, Incense | 51 | Jailer | Padlock and Key, Wine Jug | 
+| 2 | Acrobat | Lamp oil, Rope (50') | 52 | Jester |  | 
+| 3 | Actor | Makeup kit, Costume | 53 | Jeweler |  | 
+| 4 | Alchemist |  | 54 | Knight | Signet Ring, Lady's Favour | 
 | 5 | Antiquarian |  | 55 | Kidnapper |  | 
 | 6 | Arcanist | Spellbook | 56 | Lawyer |  | 
-| 7 | Architect |  | 57 | Locksmith | Crowbar, Lockpicks, Padlock and Key | 
-| 8 | Assassin | Crossbow | 58 | Mason | Chisel, Hammer | 
-| 9 | Astrologer |  | 59 | Merchant | Bag of Spice, 3d6 GP | 
-| 10 | Baker |  | 60 | Miner | Pickaxe, Lantern | 
-| 11 | Bandit |  | 61 | Musician | 2 Instrument of choice | 
-| 12 | Barber |  | 62 | Naturalist |  | 
+| 7 | Architect | 2 empty vials, Vial of Acid | 57 | Locksmith | Crowbar, Lockpicks, Padlock and Key | 
+| 8 | Assassin | Crossbow, Soft Boots | 58 | Mason | Chisel, Hammer | 
+| 9 | Astrologer | Star Charts, Telescope | 59 | Merchant | Bag of Spice, extra 3d6 GP | 
+| 10 | Baker | Rolling pin, Bag of Flour | 60 | Miner | Pickaxe, Lantern | 
+| 11 | Bandit | Manacles, Caltrops | 61 | Musician | 2 Instrument of choice | 
+| 12 | Barber | Scissors, Straight Razor | 62 | Naturalist | Fossil, Insect Case | 
 | 13 | Beast Tamer |  | 63 | Officer |  | 
 | 14 | Beekeeper |  | 64 | Oracle | Tarot Deck | 
 | 15 | Blacksmith |  | 65 | Orator |  | 
 | 16 | Boatman | 10' pole | 66 | Painter |  | 
-| 17 | Bookbinder |  | 67 | Peddler | Ball of Twine (300') | 
-| 18 | Brewer |  | 68 | Philosopher | Staff, Lantern, Chalk | 
+| 17 | Bookbinder | Sewing Kit, quill/ink | 67 | Peddler | Ball of Twine (300') | 
+| 18 | Brewer | Beer keg | 68 | Philosopher | Staff, Lantern, Chalk | 
 | 19 | Burglar |  | 69 | Physician | Wine Jug, Bonesaw | 
-| 20 | Butcher |  | 70 | Pilgrim | Staff, Relic | 
-| 21 | Candlemaker |  | 71 | Pirate | Rope (50') and Grappling Hook | 
-| 22 | Carpenter |  | 72 | Pit Fighter | Net, Whip, Wine Jug | 
-| 23 | Charlatan |  | 73 | Playwright | Quill/ink, 10 candles | 
-| 24 | Cobbler |  | 74 | Poacher | Bow, 20 arrows | 
-| 25 | Coachman |  | 75 | Poet | Bell | 
-| 26 | Cook |  | 76 | Priest | Holy Water, 10 Wooden Stakes | 
-| 27 | Courier |  | 77 | Prospector | 10 Iron Spikes | 
-| 28 | Courtier |  | 78 | Puppeteer | Puppet | 
+| 20 | Butcher | Cleaver, Meat Hook | 70 | Pilgrim | Staff, Relic | 
+| 21 | Candlemaker | Candles x10, Lump of Wax | 71 | Pirate | Rope (50') and Grappling Hook | 
+| 22 | Carpenter | Work hammer, Saw, Box of Nails | 72 | Pit Fighter | Net, Whip, Wine Jug | 
+| 23 | Charlatan | Costume, Fake Elixir | 73 | Playwright | Quill/ink, 10 candles | 
+| 24 | Cobbler | Fancy Shoes, Leather Roll | 74 | Poacher | Bow, 20 arrows | 
+| 25 | Coachman | Whip, Small Lockbox with a Key, Oilskin Coat | 75 | Poet | Bell | 
+| 26 | Cook | Frying Pan, Bottle of Olive Oil | 76 | Priest | Holy Water, 10 Wooden Stakes | 
+| 27 | Courier | Oilskin Sack (small), Lantern, Local Map | 77 | Prospector | 10 Iron Spikes | 
+| 28 | Courtier | Perfume | 78 | Puppeteer | Puppet | 
 | 29 | Cultist |  | 79 | Rat Catcher | Sack | 
 | 30 | Cutpurse |  | 80 | Saboteur | Crowbar | 
 | 31 | Dyer |  | 81 | Sailor | Spyglass | 
@@ -199,7 +201,7 @@ Roll d100 for background/career. Note that some heritages allow rolling twice.
 
 > **Design note**: the backgrounds table is taken directly from Knave 2e with minor modifications.
 
-### Starting equipment
+## Starting equipment
 
 ### Standard package
 
@@ -229,7 +231,7 @@ Roll d12 once on the following table:
 
 ### Weapons and Armour
 
-Equip yourself with what weapons and armour pieces can fit in the remaining slots. 
+Equip yourself with what weapons and armour pieces can fit in the remaining slots. I.e., any that you have slots for!
 
 ### Spellbooks
 
