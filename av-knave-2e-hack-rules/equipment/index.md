@@ -123,7 +123,7 @@ Each character can wear up to 7 items within common sense (i.e., cannot wear two
 
 - **Body** can be equipped with a gambeson (padded jacket), chain shirt and a breastplate (total 3 pieces).
 - A **Helmet** can be placed on the **head**. Helmet cannot be combined with circlets and crowns that are worn on the head. 
-- **Greaves** and **gauntlets**/**bracers** can be worn on legs and hands respectively. 
+- **Greaves** (leg plate) and **gauntlets**/**bracers** (arm plate) can be worn on legs and hands respectively. 
 - **Shield** can be wielded in one arm on top of the above. 
 
 It should be assumed that gambesons are the **most common types of armour**, followed by helmets, chainmail, bracers, greaves, breastplates. Shields are also common. Classical armours can be broken down like this:
@@ -143,6 +143,8 @@ It should be assumed that gambesons are the **most common types of armour**, fol
 
 **Plate** [AC 16] - six items:
 - Gambeson, Chainmail, Breastplate, Helmet, Grieves, Bracers
+
+**Optionally** another way to treat armour is to take it in mandatory order: Shield -> Helmet -> Gambeson -> Chain Shirt -> Arm Plate -> Leg Plate -> Breastplate. 
 
 **Optionally**: When looting a corpse there is an x-in-6 chance a specific type of armour piece can be found. 
 

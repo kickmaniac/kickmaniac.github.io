@@ -91,12 +91,11 @@ Choose one of available heritages (human, dwarf, elf etc.). Adjust the abilities
 - **Modify one ability score** by +1 for the maximum of 2 *at character creation*.
 - Knowledge of **Imperial legends & bureaucracy lore**
 - **Cannot be illiterate** at character creation even with negative INT
-- 
 - Roll **twice** on the background/career table
 
 ### Human (Wiskin)
 
-> **Lore dump**: inhabitants of northern Isles of Borealios, Wiskins are modelled after Old Norse. 
+> **Lore dump**: inhabitants of northern Isles of Borealios, Wiskins are modelled after the Old Norse. 
 
 - **Modify one ability score** by +1 for the maximum of 2 *at character creation*.
 - Once per day, when in melee, a Wiskin can choose to enter a **berserk rage** that lasts until the end of combat. While in the rage, gain a +1 bonus to Attack and Damage Rolls, but suffer a –4 penalty to Armour Class and is unable to flee.
@@ -105,7 +104,7 @@ Choose one of available heritages (human, dwarf, elf etc.). Adjust the abilities
 
 ### Human (Thorcin)
 
-> **Lore dump**: Thorcins are local in the exaarhate of Narsileon and are modelled after Anglo-Saxons. 
+> **Lore dump**: Thorcins are local in the exarchate of Narsileon and are modelled after Anglo-Saxons. 
 
 - **Modify one ability score** by +1 for the maximum of 2 *at character creation*.
 - Bonus +1 to **foraging** (WIS) checks
