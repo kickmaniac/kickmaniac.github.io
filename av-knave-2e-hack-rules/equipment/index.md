@@ -43,7 +43,7 @@ Any item packed or equipped above the normal limit (10 + CON) must be dropped or
 - **Two small sacks** must be carried in two hands (8 extra slots)
 - **Big sack** can fit 12 slots and must be carried in both hands (both hands in the main inventory must be filled with a big sack, so it effectively gives 10 extra slots)
 
-**Carrying a nunmber of items larger than (Capacity - 4)** reduces the speed too (*carrying too much* rule). See table below for quick reference! 
+If there are less than 6 free slots in the inventory, the speed is reduced (*carrying too much* rule). 
 
 | Movement | Base | Carrying too much | One Small Sack | One Big Sack or Two Small Sacks |
 | --- | --- | --- | --- | --- | 
@@ -54,21 +54,6 @@ Any item packed or equipped above the normal limit (10 + CON) must be dropped or
 
 **Note** that empty sacks are unencumbering items.
 
-| Max Slots | Encumbrance Threshold | 
-| --- | --- | 
-| 10 | 6+ | 
-| 11 | 7+ | 
-| 12 | 8+ | 
-| 13 | 9+ | 
-| 14 | 10+ | 
-| 15 | 11+ | 
-| 16 | 12+ | 
-| 17 | 13+ | 
-| 18 | 14+ | 
-| 19 | 15+ | 
-| 20 | 16+ | 
-| 21 | 17+ | 
-| 22 | 18+ | 
 
 ## Weapons 
 

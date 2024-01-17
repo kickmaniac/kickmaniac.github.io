@@ -39,6 +39,7 @@ Choose one of available heritages (human, dwarf, elf etc.). Adjust the abilities
 - Roll HP at advantage at **character creation**.
 - **DEX**, **CHA**, **WIS** cannot be raised above 7. 
 - Receive **20% less experience points**. 
+- Gain **Dwarvish language**
 
 ### Elf 
 
@@ -52,7 +53,7 @@ Choose one of available heritages (human, dwarf, elf etc.). Adjust the abilities
 - **CON**, **STR**, **CHA**  cannot be raised above 7. 
 - Receive **40% less experience points**. 
 - **Little knowledge** of human affairs or lore, apart from the very basics. 
-
+- Gain **Elvish language**
 
 ### Imperial Goblin 
 
@@ -85,27 +86,36 @@ You are a halfling from the Grain Islands.
 
 ### Human (Archontean)
 
+> **Lore dump**: Archonteans are based on Roman/Byzantine Empires. Their names are either Latinate (old tradition) or Greek (modern tradition). 
+
 - **Modify one ability score** by +1 for the maximum of 2 *at character creation*.
-- Knowledge of **Imperial legends lore**
+- Knowledge of **Imperial legends & bureaucracy lore**
+- **Cannot be illiterate** at character creation even with negative INT
+- 
 - Roll **twice** on the background/career table
 
 ### Human (Wiskin)
 
+> **Lore dump**: inhabitants of northern Isles of Borealios, Wiskins are modelled after Old Norse. 
+
 - **Modify one ability score** by +1 for the maximum of 2 *at character creation*.
-- **Regain 1d4 HP** each time you deal a killing blow!
+- Once per day, when in melee, a Wiskin can choose to enter a **berserk rage** that lasts until the end of combat. While in the rage, gain a +1 bonus to Attack and Damage Rolls, but suffer a –4 penalty to Armour Class and is unable to flee.
 - Roll **one career** randomly at *character creation*. 
 - Gain **Wiskin language**
 
 ### Human (Thorcin)
 
+> **Lore dump**: Thorcins are local in the exaarhate of Narsileon and are modelled after Anglo-Saxons. 
+
 - **Modify one ability score** by +1 for the maximum of 2 *at character creation*.
 - Bonus +1 to **foraging** (WIS) checks
-- **To-hit** +1 for two-handed melee weapons.
-- **Once per day** when reaching 0 HP in combat, roll a CON check at DC 16 and set current HP to 1.
+- Once per combat, **regain 1d4 HP** each time you deal a killing blow!
 - Roll **one career** randomly at *character creation*. 
 - Gain **Thorcin language**
 
 ### Human (Khumus)
+
+> **Lore dump**: steppe nomads, excellent archers and riders, Khumus are based on Tatar/Mongol hordes. 
 
 - **Modify one ability score** by +1 for the maximum of 2 *at character creation*.
 - Knoweledge of **horses and riding**
