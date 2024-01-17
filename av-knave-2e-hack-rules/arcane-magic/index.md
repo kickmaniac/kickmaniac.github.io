@@ -47,7 +47,7 @@ The scroll must be **held in hand** and **read out loud** to be cast. The scroll
 
  **Identifying** the scroll allows **any character** to cast a spell if they succeed an INT check:
 
-- **INT check** at **DC 11 + Spell Level** 
+- **INT check** at **DC 6 + Spell Level** 
 
 > **Lore dump**: some gods might disapprove the usage of arcane spells by their devotees! 
 
@@ -80,7 +80,6 @@ In order to scribe the scroll the character must satisfy the following requireme
 - Spend 1 week per spell level
 - Spending additional *200 GP per spell level* can allow more people to use it, granting a +1 on the **INT check** to cast the spell from a scroll.
 
-
 ## Creating spellbooks
 
 ### Creating spellbooks from scratch
@@ -100,7 +99,6 @@ In order to create a **new spellbook** (even from the existing Magic User's or I
 > **Lore dump**: Due to complexity and costs, spellbook creation is undertaken only by high-level wizards, and the primary source of spellbooks for adventurers is other adventurers. Since each spellbook is written in the spellcaster's personal code, the spellbooks are never traded (lest your secrets become exposed!), but a trophy spellbook might be given as a reward for a quest.
 
 **Spell Level** is defined by the classic spell level from one of editions of the most popular role-playing game or is defined by the Referee based on the description of the spell given by the player. 
-
 
 Creation of spellbooks **under tutelage** or in reputable **magical laboratories** might reduce time or increase the chance of success (e.g., if the master wizard favors the character and is familiar with the spell, they can improve the odds by lowering the DC to 10 + Spell Level). **Monetary costs** depend on the circumstances but **cannot be significantly affected** due to the cost of material components required for spellbook creation.
 
@@ -124,6 +122,10 @@ If in possession of a **deciphered** scroll or an **identified** spellbook the p
 ## Magical Implements
 
 **Magical implements** (wands, rods, staves and other items with charges) require **identification**, but can be used as long as the trigger action (word, gesture etc.) is known.  **Charges** are rolled by the Referee as a **secret roll** (normally 2d10, unless specified). It is not possible to know how many charges are left. 
+
+### Using Magical Implements
+
+Roll an **INT check** at **DC 6 + Spell Level** to successfully use the magic item. 
 
 ## Identifying Magical Items
 
