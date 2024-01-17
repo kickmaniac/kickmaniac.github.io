@@ -160,13 +160,13 @@ Careers come with a set of items! You must place **at least 3 of them** in your 
 | 10 | Baker | Rolling pin, Bag of Flour | 60 | Miner | Pickaxe, Lantern | 
 | 11 | Bandit | Manacles, Caltrops | 61 | Musician | 2 Instrument of choice | 
 | 12 | Barber | Scissors, Straight Razor | 62 | Naturalist | Fossil, Insect Case | 
-| 13 | Beast Tamer |  | 63 | Officer |  | 
-| 14 | Beekeeper |  | 64 | Oracle | Tarot Deck | 
-| 15 | Blacksmith |  | 65 | Orator |  | 
+| 13 | Beast Tamer | Whip | 63 | Officer |  | 
+| 14 | Beekeeper | Pot of Honey, Smoke Bomb | 64 | Oracle | Tarot Deck | 
+| 15 | Blacksmith | Tongs, Blacksmith Hammer | 65 | Orator |  | 
 | 16 | Boatman | 10' pole | 66 | Painter |  | 
 | 17 | Bookbinder | Sewing Kit, quill/ink | 67 | Peddler | Ball of Twine (300') | 
 | 18 | Brewer | Beer keg | 68 | Philosopher | Staff, Lantern, Chalk | 
-| 19 | Burglar |  | 69 | Physician | Wine Jug, Bonesaw | 
+| 19 | Burglar | Set of Lockpicks, Rope (50'), Grappling Hook | 69 | Physician | Wine Jug, Bonesaw | 
 | 20 | Butcher | Cleaver, Meat Hook | 70 | Pilgrim | Staff, Relic | 
 | 21 | Candlemaker | Candles x10, Lump of Wax | 71 | Pirate | Rope (50') and Grappling Hook | 
 | 22 | Carpenter | Work hammer, Saw, Box of Nails | 72 | Pit Fighter | Net, Whip, Wine Jug | 
@@ -176,28 +176,28 @@ Careers come with a set of items! You must place **at least 3 of them** in your 
 | 26 | Cook | Frying Pan, Bottle of Olive Oil | 76 | Priest | Holy Water, 10 Wooden Stakes | 
 | 27 | Courier | Oilskin Sack (small), Lantern, Local Map | 77 | Prospector | 10 Iron Spikes | 
 | 28 | Courtier | Perfume | 78 | Puppeteer | Puppet | 
-| 29 | Cultist |  | 79 | Rat Catcher | Sack | 
-| 30 | Cutpurse |  | 80 | Saboteur | Crowbar | 
-| 31 | Dyer |  | 81 | Sailor | Spyglass | 
-| 32 | Explorer |  | 82 | Scout |  | 
-| 33 | Falconer |  | 83 | Scribe | Quill/ink, Lamp Oil | 
+| 29 | Cultist | Dagger, Robes, Amulet | 79 | Rat Catcher | Sack | 
+| 30 | Cutpurse | Knife, Sack (small), Caltrops | 80 | Saboteur | Crowbar | 
+| 31 | Dyer | 10' Pole | 81 | Sailor | Spyglass, Pullies x2 | 
+| 32 | Explorer | Spyglass, Sextant | 82 | Scout | Playing Dice, Good boots | 
+| 33 | Falconer | Whistle, Bird Cage | 83 | Scribe | Quill/ink, Lamp Oil | 
 | 34 | Fence | Short Sword | 84 | Sculptor | Chisel | 
-| 35 | Fisherman | Spear | 85 | Servant |  | 
-| 36 | Folklorist |  | 86 | Shepherd | Sling | 
-| 37 | Gambler | Playing Dice | 87 | Shipwright | Hammer, Axe | 
-| 38 | Gamekeeper |  | 88 | Singer | Mirror, Locket (20GP) | 
+| 35 | Fisherman | Spear | 85 | Servant | Silver Plate, Iron Poker | 
+| 36 | Folklorist | Quill/ink | 86 | Shepherd | Sling | 
+| 37 | Gambler | Playing Dice, Rapier | 87 | Shipwright | Hammer, Axe | 
+| 38 | Gamekeeper | Sling, Horn, Rope Ladder (10') | 88 | Singer | Mirror, Locket (20GP) | 
 | 39 | Gardener |  | 89 | Smuggler | Rope (50') | 
 | 40 | Grave Robber | Crowbar | 90 | Soldier | Shovel, Tent | 
 | 41 | Gravediffer | Shovel | 91 | Spy | Caltrops, Poison | 
 | 42 | Groom |  | 92 | Squire | Torch | 
 | 43 | Guard | Polearm | 93 | Tailor | Sewing Kit, Scissors | 
 | 44 | Headsman | Axe | 94 | Tattooist | Soot pot, Needles | 
-| 45 | Herbalist |  | 95 | Thieftaker | Bear Trap, Manacles, Torch | 
-| 46 | Hermit | Staff | 96 | Thug | Knife, Lamp Oil | 
-| 47 | Hunter | Bear Trap | 97 | Torturer | 10' Chain | 
-| 48 | Innkeeper |  | 98 | Trapper | Bear Trap, Ball of Twine (300'), Bear Pelt  | 
-| 49 | Inquisitor |  | 99 | Watchman | Lantern, Spear | 
-| 50 | Investigator |  | 100 | Woodcutter | Axe, Rope (50'), Firewood | 
+| 45 | Herbalist | Herb Manual, Sickle | 95 | Thieftaker | Bear Trap, Manacles, Torch | 
+| 46 | Hermit | Staff, Bedroll | 96 | Thug | Knife, Lamp Oil | 
+| 47 | Hunter | Bear Trap, Tent, | 97 | Torturer | 10' Chain | 
+| 48 | Innkeeper | Candles x10, Cauldron | 98 | Trapper | Bear Trap, Ball of Twine (300'), Bear Pelt  | 
+| 49 | Inquisitor | Pliers | 99 | Watchman | Lantern, Spear | 
+| 50 | Investigator | Manacles, Empty Vial | 100 | Woodcutter | Axe, Rope (50'), Firewood | 
 
 > **Design note**: the backgrounds table is taken directly from Knave 2e with minor modifications.
 
