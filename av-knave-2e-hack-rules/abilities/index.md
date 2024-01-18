@@ -16,6 +16,8 @@ Measure of explosive strength and martial prowess. Strength is an important attr
 
 > **Example**: a character with STR 2 is fighting a goblin with AC 12. The character strikes the goblin with his sword and rolls 11. STR 2 is added for the total to-hit strike of 13 (which is better than AC 12), so  the goblin is hit! 
 
+> **Design note**: at DC 16 stands in for most of traditional Saves vs. Hold or Paralysis.
+
 ## Dexterity (DEX)
 
 Measure of speed, agility, reflexes and coordination. Dexterity is important for Thieves who rely on subterfuge and clandestine activities to advance their careers. Dexterity score affects the following: 
@@ -27,6 +29,8 @@ Measure of speed, agility, reflexes and coordination. Dexterity is important for
 >
 > Of course, if the character took enough precaution and made smart preparation in advance, such item concealment might be allowed at a lower DC or even without any roll! Play smart, roll of the dice always hides a chance of a disaster!
 
+> **Design note**: at DC 16 stands in for most of traditional Saves vs. Breath/Blast, Rays/Rods/Wands/Staves.
+
 ## Constitution (CON)
 
 Measure of endurance, stamina and general health. CON is important for all adventurers. Constitution score affects the following: 
@@ -37,6 +41,8 @@ Measure of endurance, stamina and general health. CON is important for all adven
 - **saving throws** versus bodily effects such as poison, death, petrification, doom, polymorph, disease etc. 
 
 > **Example**: a character has climbed up a wall, hiding from some nasties below. They are handing on the wall for some turns now and it’s getting tiring - all the equipment weight is dragging him down. This warrants a CON check. The Referee decides that it’s a normal difficulty of DC 16. So a character with CON 4 will need to roll at least 12+. 
+
+> **Design note**: at DC 16 stands in for most of traditional Saves vs. Death/Poison/Doom, Polymorph/Petrification. 
 
 ## Intelligence (INT)
 
@@ -55,7 +61,9 @@ Measure of perception, attentiveness and how in-tune with the world around thems
 
 - added to **attack** (to-hit) rolls with **ranged weapons**
 - **checks** related nature and outdoors activities, foraging, hunting, listening, smelling and seeing. 
-- **saving throws** versus illusions and phantasms etc. 
+- **saving throws** versus sleep spells, illusions and phantasms etc. 
+
+> **Design note**: at DC 16 stands in for most of traditional Saves vs. Spells
 
 > **Example**: the party is stuck in the middle of nowhere, so the resident hunter goes for a hunt. She has a WIS 4 and the Referee decides that it’s a normal DC of 16. The player reminds the Referee that the character is from this land, so should know the local game and landscape. Indeed, this is good enough for another +3 bonus. The character rolls a 10 + 4 WIS + 3 bonus = 17, which means it’s a success! 
 
@@ -69,6 +77,8 @@ Measure of strength of personality and persuasion/intimidation prowess is import
 - **saving throws** versus emotion-affecting spells like fear, charm and domination.
 
 > **Example**: a character wants to hire a companion since their previous one died a gruesome death in the dungeon. However, the character has a CHA score of 1, so they cannot hire more companions unless CHA is increased! 
+
+> **Design note**: at DC 16 stands in for some of traditional Saves vs. Spells
 
 ---
 
